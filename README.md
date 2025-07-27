@@ -61,6 +61,19 @@
 </p>
 
 ---
+### 🏅 Certificaciones
+<p>
+  <!-- GitHub Foundations -->
+  <a href="[https://github.com/skills/foundations](https://www.credly.com/earner/earned/badge/639411c5-b8ce-4c8e-875e-5e0c14b95013)" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Foundations-%23121011?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Foundations Badge" />
+  </a>
+  &nbsp;
+  <!-- AWS Data Engineering -->
+  <a href="[https://aws.amazon.com/training/learn-about/data-engineering/](https://www.credly.com/earner/earned/badge/480eb1ec-5de2-4f0e-bec2-90c7b04354be)" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Data%20Engineering-%23FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS Data Engineering Badge" />
+  </a>
+</p>
+
 
 ### 📊 Mis estadísticas en GitHub
 <p>
