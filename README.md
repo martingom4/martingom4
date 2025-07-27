@@ -19,13 +19,20 @@
 - ⚡ Fun fact: vivo entre líneas de código, música 🎵 y buen café ☕️.
 
 ---
-
 ### 🤝 Conecta conmigo
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/martingom4/)
-&nbsp;
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/martingom4)
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/martingom4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/martingom4" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram"
+         width="32" height="32"/>
+  </a>
+</p>
 
 ### 🧰 Lenguajes y herramientas
 
